@@ -31,8 +31,8 @@ const Projects = () => {
             const { title, info, info2, url, repo, img, id } = project;
 
             return (
-              <Row key={id}>
-                <Col lg={4} sm={12} >
+              <Row key={id} style={{justifyContent:"center",alignItems:"center"}}>
+                <Col lg={8} sm={12} >
                   <Fade
                     left={isDesktop}
                     bottom={isMobile}
@@ -40,7 +40,7 @@ const Projects = () => {
                     delay={500}
                     distance="30px"
                   >
-                    <div className="project-wrapper__text">
+                    <div className="project-wrapper__text" style={{justifyContent:"center",alignItems:"center"}}>
                       <h3 className="project-wrapper__text-title">{title || 'Project Title'}</h3>
                       <div>
                         <p>
@@ -71,7 +71,7 @@ const Projects = () => {
                     </div>
                   </Fade>
                 </Col>
-                <Col lg={8} sm={12}>
+                {/* <Col lg={8} sm={12}>
                   <Fade
                     right={isDesktop}
                     bottom={isMobile}
@@ -106,7 +106,7 @@ const Projects = () => {
                       </a>
                     </div>
                   </Fade>
-                </Col>
+                </Col> */}
               </Row>
             );
           })}
