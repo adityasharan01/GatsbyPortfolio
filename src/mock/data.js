@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: ' I m a 23 year old Software Engineer @ Finastra based in Bangalore,India. I describe myself as a passionate developer who loves coding and the web platform.',
-  paragraphTwo: "I'm currently working on building e-commerce store using MERN Stack as a side project for myself and have keen interest in how things work from inside.",
+  paragraphTwo: "I'm currently working on building Hotel Booking App using MERN Stack as a side project for myself and have keen interest in how things work from inside.",
   paragraphThree: 'I like building new stuff and work with other people – nothing really interesting is ever built alone!',
   resume: 'https://drive.google.com/file/d/11zno6_RKmsgJcAjADoDehW_Fba8VQJIL/view?usp=sharing', // if no resume, the button will not show up
 };
