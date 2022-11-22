@@ -9,9 +9,9 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: 'Hello My name is',
+  title: 'Hey ',
   name: 'Aditya Sharan',
-  subtitle: "I'm the caffeine☕ boosted Software Engineer.",
+  subtitle: "I Didn't invented the Internet I Just Make It Look Good",
   cta: 'Know more',
 };
 
@@ -19,11 +19,10 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: ' I m a 24 year old Associate Technology L2 @ Publicis Sapient based in Bangalore,India. I describe myself as a passionate developer who loves coding and the web platform.',
-  paragraphTwo: "I'm currently learning HOW TO BUILD App using MERN Stack as a side project for myself and have keen interest in how things work from inside.",
-  paragraphThree: 'I like building new stuff and work with other people – nothing really interesting is ever built alone!',
+  paragraphTwo: "I love being a developer. I love learning new things every day and creating something new every day! I am a creative person with the mind of a techie so web dev is my true calling!",
+  paragraphThree: 'I design and develop responsive content using the most current and modern technologies to provide the best user experience while satisfying customer needs.I enjoy challenges and always look for good opportunities to develop my skills.',
   resume: 'https://drive.google.com/file/d/11zno6_RKmsgJcAjADoDehW_Fba8VQJIL/view?usp=sharing', // if no resume, the button will not show up
 };
-
 // PROJECTS DATA
 export const projectsData = [
   {
