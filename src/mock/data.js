@@ -18,7 +18,7 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: ' I m a 24 year old Associate Technology L2 @ Publicis Sapient based in Bangalore,India. I describe myself as a passionate developer who loves coding and the web platform.',
+  paragraphOne: ' I m a Frontend Developer @ Publicis Sapient based in Bangalore,India. I describe myself as a passionate developer who loves coding and the web platform.',
   paragraphTwo: "I love being a developer. I love learning new things every day and creating something new every day! I am a creative person with the mind of a techie so web dev is my true calling!",
   paragraphThree: 'I design and develop responsive content using the most current and modern technologies to provide the best user experience while satisfying customer needs.I enjoy challenges and always look for good opportunities to develop my skills.',
   resume: 'https://drive.google.com/file/d/11zno6_RKmsgJcAjADoDehW_Fba8VQJIL/view?usp=sharing', // if no resume, the button will not show up
